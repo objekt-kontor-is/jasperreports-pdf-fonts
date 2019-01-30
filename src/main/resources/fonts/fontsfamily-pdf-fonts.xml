@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="Helvetica">
+		<normal>
+			<ttf>fonts/Helvetica/NimbusSans-Regular.otf</ttf>
+			<pdf>Helvetica</pdf>
+		</normal>
+		<bold>
+			<ttf>fonts/Helvetica/NimbusSans-Bold.otf</ttf>
+			<pdf>Helvetica-Bold</pdf>
+		</bold>
+		<italic>
+			<ttf>fonts/Helvetica/NimbusSans-Italic.otf</ttf>
+			<pdf>Helvetica-Oblique</pdf>
+		</italic>
+		<boldItalic>
+			<ttf>fonts/Helvetica/NimbusSans-BoldItalic.otf</ttf>
+			<pdf>Helvetica-BoldOblique</pdf>
+		</boldItalic>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Times-Roman">
+		<normal>
+			<ttf>fonts/Times_Roman/NimbusRoman-Regular.otf</ttf>
+			<pdf>Times-Roman</pdf>
+		</normal>
+		<bold>
+			<ttf>fonts/Times_Roman/NimbusRoman-Bold.otf</ttf>
+			<pdf>Times-Bold</pdf>
+		</bold>
+		<italic>
+			<ttf>fonts/Times_Roman/NimbusRoman-Italic.otf</ttf>
+			<pdf>Times-Italic</pdf>
+		</italic>
+		<boldItalic>
+			<ttf>fonts/Times_Roman/NimbusRoman-BoldItalic.otf</ttf>
+			<pdf>Times-BoldItalic</pdf>
+		</boldItalic>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Courier">
+		<normal>
+			<ttf>fonts/Courier/NimbusMonoPS-Regular.otf</ttf>
+			<pdf>Courier</pdf>
+		</normal>
+		<bold>
+			<ttf>fonts/Courier/NimbusMonoPS-Bold.otf</ttf>
+			<pdf>Courier-Bold</pdf>
+		</bold>
+		<italic>
+			<ttf>fonts/Courier/NimbusMonoPS-Italic.otf</ttf>
+			<pdf>Courier-Oblique</pdf>
+		</italic>
+		<boldItalic>
+			<ttf>fonts/Courier/NimbusMonoPS-BoldItalic.otf</ttf>
+			<pdf>Courier-BoldOblique</pdf>
+		</boldItalic>
+		<exportFonts/>
+	</fontFamily>
+	<fontSet name="Standard-PDF-Fonts">
+		<family familyName="Helvetica" primary="true"/>
+		<family familyName="Times-Roman"/>
+		<family familyName="Courier"/>
+	</fontSet>
+</fontFamilies>
